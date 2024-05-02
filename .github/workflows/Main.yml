@@ -23,4 +23,4 @@ jobs:
         run: |
           docker login --username wkusper --password ${{secrets.ACCESS_TOKEN}} ghcr.io
           docker build -t ghcr.io/wkusper/flower-order:latest --file Dockerfile .  
-          docker push ghcr.io/wkusper/floer-order:latest 
+          docker push ghcr.io/wkusper/flower-order:latest 
