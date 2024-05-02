@@ -8,11 +8,11 @@
 		<version>3.2.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>edu.iu.habahram</groupId>
-	<artifactId>ducks-service</artifactId>
+	<groupId>edu.iu.wkusper</groupId>
+	<artifactId>flower-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ducks-service</name>
-	<description>Ducks service for duck pond simulations</description>
+	<name>flower-service</name>
+	<description>final project for c322 course</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
